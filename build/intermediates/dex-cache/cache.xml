@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.6.1_c5e0a2efd0b5a40218e5aa1006593b53cd29145e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_974ba42ec64c6946c06964a6285c037164e164be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.6.1_519f97e9bebbf69f5616750ae4147e9102f179b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.6.1_6ed4c42539b5da87e7bb6ce085271b4ca0ad1d46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ad09119c735d586b0f99064f5b1f1b6e8eb1ce16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_99eaf0f6ff3866906125f8aa4a29e2c284139fc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_1bcb2da7a989165bb9e39a51e2b03b8b26ba37d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.6.1_134b50bf3a6142efb0eeb84682bf6e302d2dd66a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.6.1_5bbdaff547fd5c333e4eda1010f2430912e5a947\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_00cc8312cf2bf092fc886e01aeb3a2b4fd43c01b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.1_192c22757f8c921f4e5e34bdcea1d827b7a5f545\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.6.1_6e698e93876a9aea24d71b288c902ad824555e79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_7faf99f06329b4680c18ef40412cc21e21531783\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.6.1_3df441ecb02f32244eed179b240161a17e8557f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_4dc7118b38943f4425f10ccb0f0a45af611f69a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.1_917c07e4a7814069df20d42f59acd685b535c0f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9bc920585d082ebbc28cd0a765310ce3c500f509">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c32bfc4801d38eea1ee8b87f6ebcc7245e3472b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_d370e8767022881093500470e8b1b1042d5b28bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_548fa1f03f770c86a343f9f0bfa68798aa992805\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.6.1_22fc8704112bc3daed45fe2d921603c489e6ca7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_67cf591b9fecf06a0bd04814c11d7025530286e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_f631ae7b46ce752aef1c1805d8b5441b27da7209\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.6.1_33619cd1551c49bfd09c043a86215cebe9c4155a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.6.1_4ef4b221c40bedf88e49634d8a36243465ad1c1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_a31d294cd05fc938dccc83b63a267f8b02eda2ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.6.1_aa57efb8b87c4692d3d9b12b959deef026804097\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.6.1_8b22a1ced66587f4df5f2d1b41220ea652d792f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.6.1_c9888550453724971fd3e97bb74bb01cf3adad66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a1944f92caa16be11e40365b4528a698f017b335\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.4.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.maps.android-android-maps-utils-0.4.4_47497db9498383c0a8b1e6e492d66d0e2b8bd5de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.6.1_1a4e5cd8e75784fdf5c0fc5534a707a61ddc9cfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.6.1_a47989a923b6e28deb3dd7a3bed056c14d4fcc5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_cb9a5d3659a8604e960fe96d0c0cd7fc2cfbc133\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_50245c09743f86bb0577c58b721c919ce5f71de0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.6.1_d387ae8fa546fcfbcac6509b2723f6599a79f5c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b133f47767e900e0044bbb8c7d9b35c6989a32d">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2a93a52cb7d31b3131366d7f281679629648d3a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_8afd1bcfbd3301d0f7c6ad1f4a791ad8bb5dbe76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.6.1_2f9002b047864a71e72d6831155544db34808617\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.6.1_cf806e7351ee4825109dab36a2f1a295275934fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_010df0c3d4024ee14e61928869391401b3f7a60b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.6.1_5d817a7becd61ad630a10d9f71c00b3fe05d68ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.6.1_d669a878daa29b33307e51552acee26d435f748b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.6.1_9f7983a00c087c6555c131ff764df004e7f1ec18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_167b8b90e3280c3ef9782667e22c6304f229c41e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.6.1_3ed59ab7e51a892d8168df5ea86fac1de26df6ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_232aaceae5ab606da292d82f00c3d1e5ab8cd9d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.6.1_4548dd4f3c41c8ba8c5d67b9029cc780e5cc1061\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.1_649eef31566799b7add607565576719d6515cec5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.6.1_58e058a1c02a493dc99b654268a90baa06e49a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.6.1_9e2b70fd191fefaf7efde361f473ed1d1af7e6e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.6.1_462945ea3117a82d7b55bb356ad50c1324951a95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.6.1_5353f3595e61531192b45ff713725ba9f03bb48b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.6.1_4e9207c846e592fddc4bc01a5fae7f30f11ea9eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.6.1_d402dd00471ac55c952724e0f1aa9b06bd77781a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.6.1_179c3ffbc81ce998153447820c67ef47e2128477\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.1_c068f7bb8c8677ebb800799e368259155cb517da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cdcc30fdbdba7db68a4b3dab234ff751a3fcbcd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.6.1_1ae3941578821a9ac39897cc7124bc010cb0d4ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.6.1_75446f4ffdd4723233e63f5e9771fdbafbe24310\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.6.1_df0a7afb81eed5b3d9094626661a7196b7e8217d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.1_26db08a719e2909576b95308553273597d62c8fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.6.1_71a12d18314e5ed67d5309ad7a12469919b0e36b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.6.1_4a1ecd1385c462732aa0d673ff0350709625a0fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.6.1_ecc622df55acd414b86b8de3829dd5df8a8c1290\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.1_194bdefd7f5dab8f73d0ab8cebb4264678af5c08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.6.1_2cd49c1c99cd827b133bccea32c497b9d63853db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_35d630cbb39bbc97b11edd7380f8f6e0b6a8f7c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.6.1_bfd7603ba6be411e16d457607a593b117c5e2425\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.6.1_15fd1ab39209cfa1909492f4c8902e86056ac382\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Leonardo\Documents\GitHub\BlindPoint\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_891ed78e43ee7ad6d67bcb17fb2e469de3abf395\classes.dex" />
+    </item>
+
+</items>
